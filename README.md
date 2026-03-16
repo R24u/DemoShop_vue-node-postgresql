@@ -2,6 +2,11 @@
 
 Vue 3 + Express.js e-commerce app
 
+##
+TEST USER
+-Email : test123@gmail.com
+-password : test123
+
 ## ✅ Done
 - **Backend**: Express API, PostgreSQL, JWT, Multer uploads, routes for products/members/carts
 - **Frontend**: Vue 3 + Vite, Router, Pinia stores, Bootstrap 5, 8+ pages
